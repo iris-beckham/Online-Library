@@ -23,3 +23,7 @@
 1. Selecting an About option on the navigation menu should redirect the user to a page with credits to the API, a link to the github, and information about myself.
 ---
 1. When the user first visits the website, the page should already be populated with books (maybe from the NYT bestsellers or my own favorites?)
+
+## Lofi Wireframe
+using https://excalidraw.com/
+<img src="assets/lofi-wireframe.png">
